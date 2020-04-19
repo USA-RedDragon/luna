@@ -5,5 +5,5 @@ startingPosition = { x = 3093, y = 3244 }
 experienceMultiplier = 1.0
 serializer = "JsonPlayerSerializer"
 port = 43594
-connectionLimit = 2
+connectionLimit = 20
 pluginGui = false

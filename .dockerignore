@@ -1,0 +1,9 @@
+.dockerignore
+Dockerfile
+.gradle
+.github
+.git
+.gitignore
+.travis.yml
+*.md
+LICENSE.txt
